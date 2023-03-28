@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/tugranyayla" target="blank"><img src="https://img.shields.io/twitter/follow/tugranyayla?logo=twitter&style=for-the-badge" alt="tugranyayla" /></a> </p>
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **Swift and SwiftUI**
 
 - 📝 I regularly write articles on [https://medium.com/@tugrandev](https://medium.com/@tugrandev)
 
