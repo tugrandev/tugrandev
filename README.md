@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Swift and SwiftUI**
 
-- 📝 I regularly write articles on [https://medium.com/@tugrandev](https://medium.com/@tugrandev)
+- 📝 I regularly write articles on [https://tugran.hashnode.dev/](https://tugran.hashnode.dev/)
 
 - 📫 How to reach me **tugrandev@gmail.com**
 
